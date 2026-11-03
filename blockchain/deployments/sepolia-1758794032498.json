@@ -1,0 +1,19 @@
+{
+  "network": "sepolia",
+  "timestamp": "2026-03-13T09:53:52.497Z",
+  "deployer": "",
+  "contracts": {
+    "CarbonCreditToken": {
+      "address": "0xED7a9D61091CBFB927aAe5B897d7aebb81E633D7",
+      "transactionHash": ""
+    },
+    "BlueReefRegistry": {
+      "address": "0x046BD349B6F8aC89a49176f1eaa85bc2eF1B6043",
+      "transactionHash": ""
+    }
+  },
+  "gasUsed": {
+    "CarbonCreditToken": "Deployed successfully",
+    "BlueReefRegistry": "Deployed successfully"
+  }
+}

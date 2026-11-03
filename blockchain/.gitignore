@@ -1,0 +1,19 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Dependencies
+node_modules/
+
+# Hardhat & Solidity outputs
+cache/
+artifacts/
+typechain/
+typechain-types/
+
+# Coverage
+coverage/
+coverage.json
